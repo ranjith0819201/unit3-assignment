@@ -1,13 +1,13 @@
 # Unit 3 Assignment
 
-This repository demonstrates GitHub project structure, workflows, and automation.
+This repository demonstrates:
+- GitHub Pages setup
+- Project organization
+- GitHub Actions workflow
+- Issues, Milestones, and Wiki documentation
 
-## Project Overview
-- Organized into `src`, `tests`, `docs`, and `assets` folders.
-- Automated with GitHub Actions.
-- Includes issues, milestones, and GitHub Pages documentation.
-
-## Run Locally
-```bash
-npm install
-npm test
+## Folder Structure
+- src/
+- tests/
+- docs/
+- assets/
